@@ -1,3 +1,4 @@
+#function counts number of vowels in a word not counting y as a vowel
 def count_vowels(s):
     #word = s
     count = 0
